@@ -4,7 +4,7 @@ I'm an Electrical Engineer and Software Developer passionate about solving probl
 
 - 🔭 I’m currently working on **Easy HR Scheduler**
 - 🌱 I’m currently learning **[Technology, e.g., Docker, Cloud Architecture]**
-- 💬 Ask me about **.Net, C#, KiCAD, FullStack Development**
+- 💬 Ask me about **.Net, C#, Javascript, KiCAD, FullStack Development**
 - 📫 How to reach me: **www.linkedin.com/in/andrenyathi**
 
 ### 🛠️ Tech Stack
