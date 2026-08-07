@@ -1,6 +1,6 @@
 ### Hi there, I'm Mduduzi Andre Nyathi 👋
 
-I'm an Electrical Engineer and Software Developer passionate about solving problems through clean, efficient code and presenting beautiful rpbust interfaces.
+I'm an Electrical Engineer and Software Developer passionate about solving problems through clean, efficient code and presenting beautiful robust interfaces.
 
 - 🔭 I’m currently working on **Easy HR Scheduler**
 - 🌱 I’m currently learning **[Technology, e.g., Docker, Cloud Architecture]**
@@ -10,7 +10,9 @@ I'm an Electrical Engineer and Software Developer passionate about solving probl
 ### 🛠️ Tech Stack
 <!-- Badges add visual appeal to your skills. You can generate more at shields.io -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![KiCad](https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 GitHub Stats
