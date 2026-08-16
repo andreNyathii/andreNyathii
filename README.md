@@ -2,7 +2,7 @@
 
 I'm an Electrical Engineer and Software Developer passionate about solving problems through clean, efficient code and presenting beautiful robust interfaces.
 
-- 🔭 I’m currently working on a **Client Website** and **Easy HR Scheduler**
+- 🔭 I’m currently working on a **Wordpress Website** and **Easy HR Scheduler**
 - 🌱 I’m currently learning **[Deployment, e.g., Docker, Cloud Architecture]**
 - 💬 Ask me about **.Net, C#, Javascript, KiCAD, FullStack Development**
 - 📫 How to reach me: **www.linkedin.com/in/andrenyathi**
